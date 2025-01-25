@@ -1,0 +1,13 @@
+{
+  "Pacientes": [
+    {
+      "Id": 1,
+      "Nome": "João",
+      "Idade": 30,
+      "Diagnostico": "Tendinite",
+      "HistoricoSessoes": [
+        { "Observacoes": "Melhoria de 10% após exercícios de alongamento." }
+      ]
+    }
+  ]
+}
